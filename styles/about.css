@@ -1,0 +1,12 @@
+main {
+  margin-bottom: 20em;
+  display: flex;
+  padding: 10em;
+  align-items: center;
+  gap: 10px;
+}
+
+main img {
+  border-radius: 50%;
+  width: 20%;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: #545b77;
+
+}
+
+img {
+  border-radius: 50%;
+  width: 20%;
+}
+
+.box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20em;
+}
+
+.box-wrapper div {
+    width: 50%;
+    text-align: center;
+    
+}
